@@ -7,6 +7,7 @@
 - elice coding academy에서 진행하는 딥러닝 프로젝트 중 **RNN 기반**의 machine translation project 진행
 - Sentimental_analysis로 연습 후, machine translation project 진행 예정 
 - project 계획서는 아래와 같다
+- 제공 받은 데이터는 elice에 저작권이 있으므로 업로드는 하지 않을 예정임
 
 ---
 
