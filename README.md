@@ -11,7 +11,7 @@
 
   -  [emotions_dataset for NLP from kaggle (감성 분석 데이터 셋)](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp)
 
-- 추후 발표자료 및 코드는 업로드 예정
+- 추후 발표자료 및 ~~코드~~는 업로드 예정 --> 코드는 저작권 상 전체를 올리기 어렵기에 알고리즘만 올린다
 
 ---
 
