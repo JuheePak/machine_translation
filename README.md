@@ -10,6 +10,7 @@
 - 제공 받은 데이터셋(영어-프랑스어 말뭉치)은 elice에 저작권이 있으므로 ~~업로드 불가~~
 
   -  [emotions_dataset for NLP from kaggle (감성 분석 데이터 셋)](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp)
+  -  [한-영 구어체 말뭉치(출처: AiHub)](https://www.aihub.or.kr/aidata/87)
 
 - 추후 발표자료 및 ~~코드~~는 업로드 예정 --> 코드는 저작권 상 포트폴리오 용도로만 업로드 함
 
