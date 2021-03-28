@@ -52,7 +52,7 @@
 - (Simple) RNN
 - Embedding
 - Bidirectional LSTM
-- Emcoder-Decoder
+- Encoder-Decoder
 
 ##### 6. 개발 환경
 
